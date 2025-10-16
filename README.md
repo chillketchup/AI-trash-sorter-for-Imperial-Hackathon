@@ -1,0 +1,1 @@
+# AI-trash-sorter-for-Imperial-Hackathon
